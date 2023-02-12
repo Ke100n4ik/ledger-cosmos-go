@@ -1,4 +1,4 @@
-module github.com/cosmos/ledger-cosmos-go
+module github.com/Ke100n4ik/ledger-cosmos-go
 
 go 1.18
 
